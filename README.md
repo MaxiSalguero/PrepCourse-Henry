@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Repositorio creado como practica del Modulo 2 de Henry
+En este proyecto estoy haciendo pruebas de clonar mi repositorio desde github, modificarlo y subirlo nuevamente
